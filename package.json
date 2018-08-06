@@ -1,0 +1,25 @@
+{
+  "name": "react-app-analisis-datos",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-jsx": "^1.0.0",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "primereact": "^1.5.0",
+    "react-bootstrap": "^0.32.1",
+    "react-d3-cloud": "^0.6.0",
+    "react-tweet": "^1.7.0",
+    "react-wordcloud": "0.0.1",
+    "searchkit": "^2.3.0"
+  }
+}
